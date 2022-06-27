@@ -6,6 +6,9 @@ print("Joseph Juarez")
 print("Hola soy Omar Falso")
 print("Que hay (Roberto)")
 <<<<<<< HEAD
+print("Un lolsito o que banda?? (ulises)")
+=======
+<<<<<<< HEAD
 print("JIJIJIJAAÑA")
 =======
 print("awita de coco")
