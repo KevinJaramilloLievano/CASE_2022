@@ -1,5 +1,8 @@
 print("Kevin y python")
 print("Omar Arteaga")
+<<<<<<< HEAD
+print("Joseph Juarez")
+=======
 print("Hola soy Omar Falso")
 print("Que hay (Roberto)")
 <<<<<<< HEAD
