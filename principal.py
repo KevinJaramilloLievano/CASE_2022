@@ -28,4 +28,9 @@ print("Yo y mi amigo (mi ego) debatiendo sobre si le gusto(Literalmente fue amab
 
 print("Ejemplo commit Kevo")
 
+<<<<<<< HEAD
 print("Holaaaa")
+=======
+
+print("hola soy mike ss ")
+>>>>>>> 196f2877adaac33306e71c72b7ea545fd0af0058
