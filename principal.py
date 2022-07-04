@@ -12,7 +12,6 @@ print("Que hay (Roberto)")
 
 print("Un lolsito o que banda?? (ulises)")
 
-
 print("JIJIJIJAAÑA")
 
 print("awita de coco")
@@ -37,4 +36,8 @@ print("hola soy mike ss ")
 
 print("Soy Falcao y soy el mas prron aqui :)")
 
+<<<<<<< HEAD
 print("Soy Max Buenas :p ")
+=======
+print("Soy Luis Fernando")
+>>>>>>> 33ece51d85e1630b10b22c1b3fe19107b4e83a86
