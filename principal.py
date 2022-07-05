@@ -2,6 +2,8 @@ print("Kevin y python")
 
 print("Allan y python")
 
+print("Zuriel Jaffid Hernandez Guzman")
+
 print("Omar Arteaga")
 
 print("Joseph Juarez")
@@ -36,11 +38,10 @@ print("hola soy mike ss ")
 
 print("Soy Falcao y soy el mas prron aqui :)")
 
-<<<<<<< HEAD
+
 print("Soy Max Buenas :p ")
-=======
 print("Soy Luis Fernando")
 print("Mariana Juarez :3")
 
 print("Me gustas mucho bonita :)")
->>>>>>> 33ece51d85e1630b10b22c1b3fe19107b4e83a86
+
