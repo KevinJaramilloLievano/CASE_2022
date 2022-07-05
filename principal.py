@@ -4,8 +4,6 @@ print("Allan y python")
 
 print("Zuriel Jaffid Hernandez Guzman")
 
-print ("Muñoz Rodriguez Ariam Melanie")
-
 print("pura ingeniera en Software")
 
 print ("Diego Marquez Alvarado")
@@ -60,4 +58,5 @@ print("Dany")
 =======
 print("zaid garcia")
 >>>>>>> 3b2558d48aea76eb9d15bb3e9946051217a697a6
-print ("Soy Dali")
+print ("Soy Dali
+print ("Melanie Muñoz")
