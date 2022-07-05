@@ -58,5 +58,11 @@ print("Dany")
 =======
 print("zaid garcia")
 >>>>>>> 3b2558d48aea76eb9d15bb3e9946051217a697a6
+<<<<<<< HEAD
 print ("Soy Dali
 print ("Melanie Muñoz")
+=======
+print ("Soy Dali")
+
+print ("Soy Brayan")
+>>>>>>> 41dfdf41b60ac9868f709b8dd73a0a75fc9c6dab
