@@ -4,6 +4,10 @@ print("Allan y python")
 
 print("Zuriel Jaffid Hernandez Guzman")
 
+print("pura ingeniera en Software")
+
+print ("Diego Marquez Alvarado")
+
 print("Omar Arteaga")
 
 print("Joseph Juarez")
